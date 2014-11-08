@@ -1,0 +1,12 @@
+Hi there.
+
+I'm going to look at an object.
+(Wavelength = 662.)
+I see red.
+It reminds me of firetrucks.
+
+Cool. Now, let me see if it feels like something to see red.
+Does it feel like something to see red?
+Answer: yes
+Ok, but _why_ does it feel like something to see red?
+This seems completely unexplained. It's clear that my brain can perceive colors, but why, when I ask myself whether there's something it feels like to perceive these inputs, do I realize that yes, there is something it's like? Hmm. Off to read more David Chalmers, I guess.
